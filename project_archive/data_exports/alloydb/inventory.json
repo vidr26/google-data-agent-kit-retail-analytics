@@ -1,0 +1,1052 @@
+[
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-101",
+    "stock_count": 73,
+    "opening_stock": 280,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-102",
+    "stock_count": 113,
+    "opening_stock": 244,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-103",
+    "stock_count": 130,
+    "opening_stock": 301,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-104",
+    "stock_count": 85,
+    "opening_stock": 215,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-105",
+    "stock_count": 69,
+    "opening_stock": 151,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-201",
+    "stock_count": 77,
+    "opening_stock": 175,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-202",
+    "stock_count": 120,
+    "opening_stock": 120,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-203",
+    "stock_count": 97,
+    "opening_stock": 323,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-204",
+    "stock_count": 32,
+    "opening_stock": 114,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-301",
+    "stock_count": 141,
+    "opening_stock": 207,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-302",
+    "stock_count": 116,
+    "opening_stock": 166,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-303",
+    "stock_count": 76,
+    "opening_stock": 132,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-304",
+    "stock_count": 82,
+    "opening_stock": 82,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-401",
+    "stock_count": 60,
+    "opening_stock": 233,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-402",
+    "stock_count": 62,
+    "opening_stock": 81,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-403",
+    "stock_count": 64,
+    "opening_stock": 64,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-501",
+    "stock_count": 31,
+    "opening_stock": 31,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-502",
+    "stock_count": 2,
+    "opening_stock": 23,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-503",
+    "stock_count": 26,
+    "opening_stock": 39,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-504",
+    "stock_count": 23,
+    "opening_stock": 34,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-601",
+    "stock_count": 44,
+    "opening_stock": 44,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-602",
+    "stock_count": 78,
+    "opening_stock": 78,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-603",
+    "stock_count": 84,
+    "opening_stock": 139,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-604",
+    "stock_count": 71,
+    "opening_stock": 71,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-001",
+    "sku": "SKU-701",
+    "stock_count": 19,
+    "opening_stock": 20,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-101",
+    "stock_count": 93,
+    "opening_stock": 141,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-102",
+    "stock_count": 8,
+    "opening_stock": 237,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-103",
+    "stock_count": 77,
+    "opening_stock": 174,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-104",
+    "stock_count": 74,
+    "opening_stock": 107,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-105",
+    "stock_count": 41,
+    "opening_stock": 164,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-201",
+    "stock_count": 119,
+    "opening_stock": 193,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-202",
+    "stock_count": 84,
+    "opening_stock": 198,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-203",
+    "stock_count": 177,
+    "opening_stock": 234,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-204",
+    "stock_count": 54,
+    "opening_stock": 165,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-301",
+    "stock_count": 138,
+    "opening_stock": 183,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-302",
+    "stock_count": 70,
+    "opening_stock": 197,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-303",
+    "stock_count": 61,
+    "opening_stock": 187,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-304",
+    "stock_count": 105,
+    "opening_stock": 233,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-401",
+    "stock_count": 96,
+    "opening_stock": 302,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-402",
+    "stock_count": 36,
+    "opening_stock": 124,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-403",
+    "stock_count": 70,
+    "opening_stock": 125,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-501",
+    "stock_count": 31,
+    "opening_stock": 41,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-502",
+    "stock_count": 20,
+    "opening_stock": 34,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-503",
+    "stock_count": 21,
+    "opening_stock": 21,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-504",
+    "stock_count": 29,
+    "opening_stock": 38,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-601",
+    "stock_count": 42,
+    "opening_stock": 177,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-602",
+    "stock_count": 40,
+    "opening_stock": 61,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-603",
+    "stock_count": 87,
+    "opening_stock": 108,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-604",
+    "stock_count": 40,
+    "opening_stock": 78,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-002",
+    "sku": "SKU-701",
+    "stock_count": 16,
+    "opening_stock": 18,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-101",
+    "stock_count": 70,
+    "opening_stock": 225,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-102",
+    "stock_count": 137,
+    "opening_stock": 252,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-103",
+    "stock_count": 156,
+    "opening_stock": 312,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-104",
+    "stock_count": 63,
+    "opening_stock": 63,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-105",
+    "stock_count": 76,
+    "opening_stock": 141,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-201",
+    "stock_count": 116,
+    "opening_stock": 149,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-202",
+    "stock_count": 68,
+    "opening_stock": 97,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-203",
+    "stock_count": 172,
+    "opening_stock": 403,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-204",
+    "stock_count": 57,
+    "opening_stock": 141,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-301",
+    "stock_count": 159,
+    "opening_stock": 342,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-302",
+    "stock_count": 60,
+    "opening_stock": 249,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-303",
+    "stock_count": 63,
+    "opening_stock": 227,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-304",
+    "stock_count": 66,
+    "opening_stock": 66,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-401",
+    "stock_count": 0,
+    "opening_stock": 92,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-402",
+    "stock_count": 49,
+    "opening_stock": 80,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-403",
+    "stock_count": 94,
+    "opening_stock": 135,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-501",
+    "stock_count": 27,
+    "opening_stock": 43,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-502",
+    "stock_count": 30,
+    "opening_stock": 32,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-503",
+    "stock_count": 25,
+    "opening_stock": 28,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-504",
+    "stock_count": 17,
+    "opening_stock": 17,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-601",
+    "stock_count": 64,
+    "opening_stock": 93,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-602",
+    "stock_count": 36,
+    "opening_stock": 140,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-603",
+    "stock_count": 58,
+    "opening_stock": 108,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-604",
+    "stock_count": 52,
+    "opening_stock": 121,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-003",
+    "sku": "SKU-701",
+    "stock_count": 22,
+    "opening_stock": 26,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-101",
+    "stock_count": 64,
+    "opening_stock": 242,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-102",
+    "stock_count": 163,
+    "opening_stock": 163,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-103",
+    "stock_count": 134,
+    "opening_stock": 279,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-104",
+    "stock_count": 89,
+    "opening_stock": 144,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-105",
+    "stock_count": 57,
+    "opening_stock": 107,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-201",
+    "stock_count": 124,
+    "opening_stock": 155,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-202",
+    "stock_count": 111,
+    "opening_stock": 180,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-203",
+    "stock_count": 121,
+    "opening_stock": 157,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-204",
+    "stock_count": 45,
+    "opening_stock": 61,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-301",
+    "stock_count": 75,
+    "opening_stock": 104,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-302",
+    "stock_count": 64,
+    "opening_stock": 83,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-303",
+    "stock_count": 56,
+    "opening_stock": 121,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-304",
+    "stock_count": 69,
+    "opening_stock": 164,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-401",
+    "stock_count": 46,
+    "opening_stock": 122,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-402",
+    "stock_count": 65,
+    "opening_stock": 118,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-403",
+    "stock_count": 70,
+    "opening_stock": 82,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-501",
+    "stock_count": 24,
+    "opening_stock": 46,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-502",
+    "stock_count": 20,
+    "opening_stock": 20,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-503",
+    "stock_count": 39,
+    "opening_stock": 55,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-504",
+    "stock_count": 19,
+    "opening_stock": 26,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-601",
+    "stock_count": 53,
+    "opening_stock": 103,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-602",
+    "stock_count": 64,
+    "opening_stock": 116,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-603",
+    "stock_count": 45,
+    "opening_stock": 117,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-604",
+    "stock_count": 50,
+    "opening_stock": 147,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-004",
+    "sku": "SKU-701",
+    "stock_count": 16,
+    "opening_stock": 16,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-101",
+    "stock_count": 61,
+    "opening_stock": 308,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-102",
+    "stock_count": 132,
+    "opening_stock": 361,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-103",
+    "stock_count": 157,
+    "opening_stock": 186,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-104",
+    "stock_count": 91,
+    "opening_stock": 162,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-105",
+    "stock_count": 53,
+    "opening_stock": 164,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-201",
+    "stock_count": 132,
+    "opening_stock": 195,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-202",
+    "stock_count": 109,
+    "opening_stock": 139,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-203",
+    "stock_count": 140,
+    "opening_stock": 140,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-204",
+    "stock_count": 30,
+    "opening_stock": 85,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-301",
+    "stock_count": 77,
+    "opening_stock": 110,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-302",
+    "stock_count": 57,
+    "opening_stock": 212,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-303",
+    "stock_count": 54,
+    "opening_stock": 241,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-304",
+    "stock_count": 85,
+    "opening_stock": 122,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-401",
+    "stock_count": 84,
+    "opening_stock": 236,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-402",
+    "stock_count": 56,
+    "opening_stock": 56,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-403",
+    "stock_count": 91,
+    "opening_stock": 196,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-501",
+    "stock_count": 28,
+    "opening_stock": 44,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-502",
+    "stock_count": 21,
+    "opening_stock": 26,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-503",
+    "stock_count": 25,
+    "opening_stock": 39,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-504",
+    "stock_count": 32,
+    "opening_stock": 34,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-601",
+    "stock_count": 40,
+    "opening_stock": 121,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-602",
+    "stock_count": 78,
+    "opening_stock": 78,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-603",
+    "stock_count": 46,
+    "opening_stock": 123,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-604",
+    "stock_count": 41,
+    "opening_stock": 79,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-005",
+    "sku": "SKU-701",
+    "stock_count": 16,
+    "opening_stock": 16,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-101",
+    "stock_count": 101,
+    "opening_stock": 167,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-102",
+    "stock_count": 176,
+    "opening_stock": 331,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-103",
+    "stock_count": 120,
+    "opening_stock": 290,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-104",
+    "stock_count": 83,
+    "opening_stock": 102,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-105",
+    "stock_count": 47,
+    "opening_stock": 65,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-201",
+    "stock_count": 95,
+    "opening_stock": 293,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-202",
+    "stock_count": 94,
+    "opening_stock": 119,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-203",
+    "stock_count": 99,
+    "opening_stock": 180,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-204",
+    "stock_count": 54,
+    "opening_stock": 95,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-301",
+    "stock_count": 103,
+    "opening_stock": 103,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-302",
+    "stock_count": 55,
+    "opening_stock": 180,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-303",
+    "stock_count": 64,
+    "opening_stock": 185,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-304",
+    "stock_count": 76,
+    "opening_stock": 174,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-401",
+    "stock_count": 95,
+    "opening_stock": 129,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-402",
+    "stock_count": 50,
+    "opening_stock": 125,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-403",
+    "stock_count": 59,
+    "opening_stock": 175,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-501",
+    "stock_count": 37,
+    "opening_stock": 37,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-502",
+    "stock_count": 17,
+    "opening_stock": 23,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-503",
+    "stock_count": 25,
+    "opening_stock": 25,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-504",
+    "stock_count": 23,
+    "opening_stock": 29,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-601",
+    "stock_count": 38,
+    "opening_stock": 135,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-602",
+    "stock_count": 50,
+    "opening_stock": 97,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-603",
+    "stock_count": 63,
+    "opening_stock": 75,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-604",
+    "stock_count": 46,
+    "opening_stock": 162,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  },
+  {
+    "store_id": "STR-006",
+    "sku": "SKU-701",
+    "stock_count": 22,
+    "opening_stock": 22,
+    "last_counted_at": "2026-10-26T05:30:00Z"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {"store_id":"STR-001","store_name":"Charlie's Coffee - SoMa","zip_code":"94103","address":"200 block of 7th St, San Francisco, CA 94103","latitude":37.777,"longitude":-122.409,"opened_date":"2019-03-14","square_feet":1850,"status":"OPEN"},
+  {"store_id":"STR-002","store_name":"Charlie's Coffee - Mission District","zip_code":"94110","address":"1000 block of Valencia St, San Francisco, CA 94110","latitude":37.7567,"longitude":-122.4214,"opened_date":"2020-09-01","square_feet":1420,"status":"OPEN"},
+  {"store_id":"STR-003","store_name":"Charlie's Coffee - North Beach","zip_code":"94133","address":"600 block of Vallejo St, San Francisco, CA 94133","latitude":37.7986,"longitude":-122.4075,"opened_date":"2021-05-20","square_feet":2100,"status":"OPEN"},
+  {"store_id":"STR-004","store_name":"Charlie's Coffee - Hayes Valley","zip_code":"94102","address":"400 block of Hayes St, San Francisco, CA 94102","latitude":37.7767,"longitude":-122.4242,"opened_date":"2022-08-15","square_feet":1180,"status":"OPEN"},
+  {"store_id":"STR-005","store_name":"Charlie's Coffee - Inner Richmond","zip_code":"94118","address":"400 block of Clement St, San Francisco, CA 94118","latitude":37.7828,"longitude":-122.4637,"opened_date":"2023-02-06","square_feet":1340,"status":"OPEN"},
+  {"store_id":"STR-006","store_name":"Charlie's Coffee - Marina","zip_code":"94123","address":"2200 block of Chestnut St, San Francisco, CA 94123","latitude":37.8004,"longitude":-122.4401,"opened_date":"2024-06-11","square_feet":1960,"status":"OPEN"}
+]

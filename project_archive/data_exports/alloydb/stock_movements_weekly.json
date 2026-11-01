@@ -1,0 +1,11 @@
+[
+  {"week_start":"2026-08-31","delivery":26586,"sale":26516,"waste":95,"adjustment":35},
+  {"week_start":"2026-09-07","delivery":26460,"sale":26357,"waste":123,"adjustment":37},
+  {"week_start":"2026-09-14","delivery":26475,"sale":26314,"waste":115,"adjustment":18},
+  {"week_start":"2026-09-21","delivery":26216,"sale":25862,"waste":97,"adjustment":5},
+  {"week_start":"2026-09-28","delivery":26271,"sale":26527,"waste":136,"adjustment":24},
+  {"week_start":"2026-10-05","delivery":27702,"sale":26171,"waste":160,"adjustment":19},
+  {"week_start":"2026-10-12","delivery":25754,"sale":26681,"waste":77,"adjustment":15},
+  {"week_start":"2026-10-19","delivery":18713,"sale":26237,"waste":114,"adjustment":21},
+  {"week_start":"2026-10-26","delivery":321,"sale":2922,"waste":14,"adjustment":2}
+]

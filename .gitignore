@@ -2,3 +2,6 @@
 .workshop-state/
 .claude/settings.local.json
 .DS_Store
+
+# Raw agent transcripts (kept locally only)
+project_archive/session_logs/*.jsonl
